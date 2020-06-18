@@ -1,0 +1,13 @@
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.exe
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.deps.json
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.runtimeconfig.json
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.runtimeconfig.dev.json
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.dll
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\bin\Debug\netcoreapp3.1\PlayingWithVariables.pdb
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.csprojAssemblyReference.cache
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.AssemblyInfoInputs.cache
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.AssemblyInfo.cs
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.csproj.CoreCompileInputs.cache
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.dll
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.pdb
+C:\Users\Synthe\source\repos\PlayingWithVariablesF\PlayingWithVariables\obj\Debug\netcoreapp3.1\PlayingWithVariables.genruntimeconfig.cache
