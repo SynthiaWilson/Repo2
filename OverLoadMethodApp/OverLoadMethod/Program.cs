@@ -29,11 +29,15 @@ namespace OverLoadMethod
             string dollarSign = "";
             if (Flag == true)
             {
-                if (a + b > 1)
-                { dollarSign = " dollars"; }
-                else { dollarSign = " dollar"; }
+                if (a + b > 1) 
+                 {
+                    dollarSign = " dollars"; 
+                }
+                else
+                { 
+                    dollarSign = " dollar";
+                }
             }
-            int add1 = a + b;
             return $"{a + b} {dollarSign}";
 
         }
